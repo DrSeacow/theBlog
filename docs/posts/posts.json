@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to CogPsych Blog of Dan Siegel",
-    "description": "Welcome to our new blog, CogPsych Blog of Dan Siegel. We hope you enjoy \nreading what we have to say!",
+    "title": "First Post: Cognitive Psychology Blog of Dan Siegel",
+    "description": "This is my first blog post. I will initially review some concepts of mind and continue posting my stream of consciousness as I'm going through the readings each class.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Dan Siegel",
+        "url": "https://drseacow.github.io/theBlog/"
       }
     ],
     "date": "2021-09-09",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-09-09T22:37:38-04:00",
-    "input_file": {}
+    "last_modified": "2021-09-09T22:55:55-04:00",
+    "input_file": "welcome.knit.md"
   }
 ]
