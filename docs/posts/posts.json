@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to CogPsych Blog of Dan Siegel",
+    "description": "Welcome to our new blog, CogPsych Blog of Dan Siegel. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-09-09",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-09T22:37:38-04:00",
+    "input_file": {}
+  }
+]
